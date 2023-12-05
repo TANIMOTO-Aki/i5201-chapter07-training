@@ -8,7 +8,6 @@ public class EX7_Suidou2 {
         final int USAGE_RATE = 50;              //従量料金
 
         /* 区分に0が入力されるまで繰り返す */
-        suidou:
         while(true) {
             int use = 0,amount = 0;
             System.out.print("区分？　　");
