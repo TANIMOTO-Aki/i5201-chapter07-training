@@ -41,6 +41,7 @@ public class EX7_Suidou2 {
                     use -= USAGE_THRESHOLD;
                 }
                 kubun = "一般";
+                break;
             case 2:
                 baseRate = COMMERCIAL_BASE_RATE;
                 usageRate = COMMERCIAL_USAGE_RATE;
